@@ -1,0 +1,2 @@
+# Buat file .vercelignore
+echo "*.mp4\n*.large\n*.zip" > .vercelignore
